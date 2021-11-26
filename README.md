@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi there, welcome on my profile </h1>
 
 <div>
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="left" alt="GIF" src="https://appstickers-cdn.appadvice.com/838500730/840554602/316be16efe02a75905b6a1a114c721b2-2.gif" />
 </div>
 
 <br>

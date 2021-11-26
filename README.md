@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi there, welcome on my profile </h1>
 
 <div>
-<img align="left" alt="GIF" src="https://www.gamespot.com/a/uploads/original/1179/11799911/2454154-stewie%20time%20travel.gif" />
+<img align="left" alt="GIF" src="https://c.tenor.com/1NZu_wKc-IwAAAAi/barack-obama-spinning-head.gif" />
 </div>
 
 <br>

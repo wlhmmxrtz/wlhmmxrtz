@@ -13,7 +13,7 @@
 
   <div>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/wlhmmxrtz?tab=repositories)
+- 🌌 All of my projects are available  [here](https://github.com/wlhmmxrtz?tab=repositories)
 
 </div>
 

@@ -1,8 +1,3 @@
-<style>
-  *{
-  background-color: #0000;
-  }
-</style>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi there, welcome on my profile </h1>
 
@@ -12,6 +7,13 @@
 
 <br>
 <br>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 <br>
 <br>
 

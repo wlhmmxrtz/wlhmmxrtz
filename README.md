@@ -1,4 +1,8 @@
-
+<style>
+  *{
+  background-color: #0000;
+  }
+</style>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi there, welcome on my profile </h1>
 

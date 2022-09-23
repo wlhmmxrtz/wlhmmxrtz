@@ -4,9 +4,6 @@
 <div>
 <img align="left" alt="GIF" src="https://www.gifcen.com/wp-content/uploads/2021/08/-4.gif" width="125px"/>
 </div>
-
-
-
 <br>
 <br>
 

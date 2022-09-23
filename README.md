@@ -18,11 +18,11 @@
 </div>
 
 <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=wlhmmxrtz&count_private=true&show_icons=true&theme=synthwave-purple&locale=en&include_all_commits=true&custom_title=wlhmmxrtz's%20Github%20Stats&hide=issues"> 
+</div>
 <br>
 <br>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=wlhmmxrtz&count_private=true&show_icons=true&theme=synthwave-purple&locale=en&include_all_commits=true&custom_title=wlhmmxrtz's%20Github%20Stats&hide=issues"> 
-</div>
 <br>
 <br>
 </br>
